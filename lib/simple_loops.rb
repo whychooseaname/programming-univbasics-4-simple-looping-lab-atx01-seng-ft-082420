@@ -17,5 +17,6 @@ def loop_message_five_times(message,n)
 end
 
 def output_array(array)
-  
+  counter=0 
+  while 
 end 
